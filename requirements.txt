@@ -1,0 +1,12 @@
+missingno
+numpy
+pandas
+seaborn
+keras
+matplotlib
+plotly
+scikit-learn
+tensorflow
+scikeras
+kaleido
+nbformat==5.10.3

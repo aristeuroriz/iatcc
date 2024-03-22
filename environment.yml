@@ -1,0 +1,4 @@
+name: iatcc
+channels:
+  - defaults
+prefix: /Users/aristeuroriz/anaconda3/envs/iatcc
